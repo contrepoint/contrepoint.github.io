@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
+$bg-color: #f5f0eb;
 
 // syntax highlighting
 $syn-bg: #282828;
@@ -24,7 +25,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:      $syn-bg !default;
-$background-color: #f5f0eb !default;
+$background-color: $bg-color !default;
 $brand-color:      darken($syn-orange, 10%) !default;
 
 $grey-color:       #828282 !default;
