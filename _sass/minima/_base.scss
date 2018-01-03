@@ -150,7 +150,8 @@ code {
 pre {
   padding: 8px 12px;
   overflow-x: auto;
-
+  border: 1px solid $brand-color;
+  border-radius: 3px;
   > code {
     border: 0;
     padding-right: 0;
