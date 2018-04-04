@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll Markdown Cheatsheet"
 date:   2018-01-03 17:50:11 +0800
-categories: jekyll update
+permalink: jekyll-markdown-cheatsheet
+tags: [jekyll, markdown]
 ---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
