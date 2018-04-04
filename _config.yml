@@ -26,7 +26,7 @@ github_username:  contrepoint
 markdown: kramdown
 plugins:
   - jekyll-feed
-
+excerpt_separator: <!--more-->
 date_format: "%d %b %Y"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
